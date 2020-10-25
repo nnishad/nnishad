@@ -26,7 +26,6 @@ Hi, I'm [Nikhil Nishad](), a Full Stack Developer 🚀 from India, currently. Be
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Flutter; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@nnishad](https://www.linkedin.com/in/nikhil-nishad/);
 
