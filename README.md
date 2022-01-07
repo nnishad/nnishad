@@ -19,7 +19,7 @@
 Distributed system development, Microservices! An agile approch to every solution. 
 
 ---
-Hi, I'm [Nikhil Nishad](), a Full Stack Developer 🚀 from India, currently. Beside's programming, I enjoy eating food and traveling.
+Hi, I'm [Nikhil Nishad](), a Full Stack Developer 🚀 from India. Beside's programming, I enjoy eating food and traveling.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
